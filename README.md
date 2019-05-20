@@ -5,7 +5,7 @@ Joint architecture ground control station. Or just another ground control statio
 
 ![alt tag](https://raw.githubusercontent.com/MishkaRogachev/JAGCS/master/ui.png)
 
-Can be used as ground software for the MAVLink compatible drones, but other information protocols can be integrated.
+Can be used as ground software for the drones, but other information protocols can be integrated.
 Build with Qt and works on Windows/Linux/Android(Mac support will be later).
 
 ### Source code
